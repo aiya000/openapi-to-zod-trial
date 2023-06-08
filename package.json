@@ -1,0 +1,7 @@
+{
+  "name": "openapi-to-zod-trial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aiya000 <aiya000.develop@gmail.com>",
+  "license": "MIT"
+}
